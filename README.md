@@ -1,15 +1,23 @@
-## 👋 Hi there
-- Name : Taeyoung Kim
-- Position : Back - End developer
-- University : Soongsil Univ.
-- Double Major : Mathematics & Department of AI Convergence
-- Qualifications
-  - SQLD
-  - TOEIC 830
-  - TOEIC Speaking AL
- 
-- Career
-  - Software Maestor (2025.04. ~ )
+## 👋 Hi there! I'm Taeyoung Kim
+
+### 💼 Position
+- Back-End Developer
+
+### 🎓 Education
+- **Soongsil University** (2019.03. ~ 2025.06.)
+- **Double Major**:
+  - Mathematics
+  - Department of AI Convergence
+
+### 📜 Certification
+- SQLD (2024.11.)
+
+### 🌐 Language Proficiency
+- TOEIC — 830 (2025.02.)
+- TOEIC Speaking — AL (2025.02.)
+
+### 🧩 Career
+- Software Maestro (2025.04. ~ )
 
 ## ⚒️ Tech Stacks
 ### Back - End
