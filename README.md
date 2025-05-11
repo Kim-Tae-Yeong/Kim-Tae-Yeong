@@ -4,8 +4,8 @@
 - Back-End Developer
 
 ### 🎓 Education
-- **Soongsil University** (2019.03. ~ 2025.06.)
-- **Double Major**:
+- Soongsil University (2019.03. ~ 2025.06.)
+- Double Major:
   - Mathematics
   - Department of AI Convergence
 
