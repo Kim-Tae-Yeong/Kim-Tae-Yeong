@@ -12,6 +12,6 @@
 ### DevOps
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 
-## BOJ
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=legends0427)](https://solved.ac/legends0427)
+## 💻 GitHub & BOJ
+![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-tae-yeong&show_icons=true&theme=tokyonight)
+
