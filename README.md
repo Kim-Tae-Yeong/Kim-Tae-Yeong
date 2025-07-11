@@ -1,19 +1,8 @@
 # 👋 Hi there!
 ## 💻 Projects
-### 1. EveryHealth
-- Topic :
-- Member :
-- Period :
-
-### 2. QuizApp
-- Topic :
-- Members :
-- Period :
-
-### 3. Job Q&A
-- Topic :
-- Members :
-- Period :
+### 1. EveryHealth - 
+### 2. QuizApp - 
+### 3. Job Q&A - 
 
 ## ⚒️ Tech Stacks
 ### Language
