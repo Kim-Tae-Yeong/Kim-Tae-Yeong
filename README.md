@@ -1,4 +1,16 @@
-## 👋 Hi there!
+# 👋 Hi there!
+## 💻 Projects
+### 1. EveryHealth
+- Topic :
+- Member :
+- Period :
+
+### 2. QuizApp
+- Topic :
+- Members :
+- Period :
+
+### 3. 
 ## ⚒️ Tech Stacks
 ### Language
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -12,13 +24,10 @@
 ### DevOps
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
-### ML
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-
 ### Tool
 <img src="https://img.shields.io/badge/hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
 
-## 💻 GitHub & BOJ
+## 💡 GitHub & BOJ
 ![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-tae-yeong&show_icons=true&theme=tokyonight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=legends042700)](https://solved.ac/legends042700)
