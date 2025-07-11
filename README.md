@@ -1,8 +1,8 @@
 # 👋 Hi there!
 ## 💻 Projects
-### 1. EveryHealth - Comprehensive Web-Based Health Management Platform
-### 2. QuizApp - 
-### 3. Job Q&A - 
+1. **EveryHealth** - A web platform for personal health tracking and management
+2. **QuizApp** - A vocabulary quiz app for language exam prep (TOEIC, JLPT, GOETHE)
+3. **Job Q&A** - A Q&A platform for career insights and job advice
 
 ## ⚒️ Tech Stacks
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
