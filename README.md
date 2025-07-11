@@ -1,6 +1,6 @@
 # 👋 Hi there!
 ## 💻 Projects
-### 1. EveryHealth - 
+### 1. EveryHealth - Comprehensive Web-Based Health Management Platform
 ### 2. QuizApp - 
 ### 3. Job Q&A - 
 
