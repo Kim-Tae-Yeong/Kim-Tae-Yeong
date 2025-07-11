@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ### ETC
-<img src="https://img.shields.io/badge/hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
 
 ## 💻 GitHub & BOJ
 ![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-tae-yeong&show_icons=true&theme=tokyonight)
